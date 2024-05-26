@@ -1,0 +1,12 @@
+/* loginStyles.css */
+
+.btn-login {
+    background-color: #51915a !important; /* primary color */
+    color: #884242; /* text color */
+    padding: 0.75rem 1.5rem; /* adjust padding as needed */
+    border: none; /* remove border */
+    border-radius: 0.375rem; /* adjust border radius as needed */
+    cursor: pointer; /* show pointer on hover */
+    transition: background-color 0.3s ease; /* smooth transition on hover */
+  }
+  
